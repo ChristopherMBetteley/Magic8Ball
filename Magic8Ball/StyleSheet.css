@@ -1,0 +1,59 @@
+﻿body
+{
+    background-color:#9E9E9E;
+}
+#blackCircle {
+  
+   
+    background-color:black;
+    border-radius:30em;
+    height:30em;
+    width:30em;
+}
+#blackCircle h2{
+    color:#9E9E9E;
+    background-color:#1E1E1E;
+    height:3em;
+    width:10em;
+    border-radius:10em;
+    padding-top:1em;
+    margin-top:5em;
+    margin-left:1.5em;
+    text-align:center;
+}
+#wholeBall h1{
+    text-align:center;
+}
+#wholeBall {
+    display:inline-block;
+    float:none;
+}
+#fortune{
+    text-align:center;
+    float:none;
+}
+#button{
+    margin-top:2em;
+}
+#buttonContainer{
+    display:inline-block;
+    text-align:center;
+    float:none;
+    
+}
+.navbar .navbar-nav{
+    
+}
+ul{
+    height:50px;
+    text-align:center;
+    margin:0;
+    display:table;
+    width:100%;
+}
+#link{
+    display: table-cell;
+    width: 1%;
+    float: none;
+    text-align: center;
+}
